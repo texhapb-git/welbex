@@ -1,0 +1,22 @@
+[
+	{
+		"id": "mobile-link-1",
+		"title": "Услуги",
+		"path": "#"
+	},
+	{
+		"id": "mobile-link-2",
+		"title": "Виджеты",
+		"path": "#"
+	},
+	{
+		"id": "mobile-link-3",
+		"title": "Интеграции",
+		"path": "#"
+	},
+	{
+		"id": "mobilelink-4",
+		"title": "Кейсы",
+		"path": "#"
+	}
+]

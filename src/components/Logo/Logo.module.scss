@@ -1,0 +1,20 @@
+@import '../../styles/varialbles';
+
+.logo {
+	display: flex;
+	flex-direction: column;
+
+	a {
+		font-family: $fontFamilyAdditional;
+		font-size: 10px;
+		line-height: 12px;
+		font-weight: 300;
+		text-decoration: none;
+		cursor: pointer;
+		color: $textColor;
+	}
+
+	.text {
+		margin-top: 10px;
+	}
+}

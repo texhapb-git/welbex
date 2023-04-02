@@ -1,0 +1,27 @@
+[
+	{
+		"id": "footer-link-1",
+		"title": "Расчёт стоимости",
+		"path": "#"
+	},
+	{
+		"id": "footer-link-2",
+		"title": "Услуги",
+		"path": "#"
+	},
+	{
+		"id": "footer-link-3",
+		"title": "Виджеты",
+		"path": "#"
+	},
+	{
+		"id": "footer-link-4",
+		"title": "Интеграции",
+		"path": "#"
+	},
+	{
+		"id": "footer-link-5",
+		"title": "Наши клиенты",
+		"path": "#"
+	}
+]

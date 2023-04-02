@@ -1,0 +1,23 @@
+@import '../../styles/varialbles';
+
+.socials {
+	display: flex;
+	justify-content: right;
+	align-items: center;
+
+	.item {
+		width: 20px;
+		height: 20px;
+		margin-left: 10px;
+
+		svg {
+			width: 20px;
+			height: 20px;
+			fill: $textColor;
+		}
+	}
+
+	&.header .item {
+		margin-left: 30px;
+	}
+}

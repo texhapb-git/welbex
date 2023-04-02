@@ -1,0 +1,27 @@
+[
+	{
+		"id": "header-link-1",
+		"title": "Услуги",
+		"path": "#"
+	},
+	{
+		"id": "header-link-2",
+		"title": "Виджеты",
+		"path": "3"
+	},
+	{
+		"id": "header-link-3",
+		"title": "Интеграции",
+		"path": "#"
+	},
+	{
+		"id": "header-link-4",
+		"title": "Кейсы",
+		"path": "#"
+	},
+	{
+		"id": "header-link-5",
+		"title": "Сертификаты",
+		"path": "#"
+	}
+]

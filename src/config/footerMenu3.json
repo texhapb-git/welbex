@@ -1,0 +1,34 @@
+[
+	{
+		"id": "footer-link-1",
+		"title": "Благодарность клиентов",
+		"path": "#",
+		"mobileOnly": true
+	},
+	{
+		"id": "footer-link-2",
+		"title": "Кейсы",
+		"path": "#"
+	},
+	{
+		"id": "footer-link-3",
+		"title": "Благодарственные письма",
+		"path": "#",
+		"desktopOnly": true
+	},
+	{
+		"id": "footer-link-4",
+		"title": "Сертификаты",
+		"path": "#"
+	},
+	{
+		"id": "footer-link-5",
+		"title": "Блог на Youtube",
+		"path": "#"
+	},
+	{
+		"id": "footer-link-6",
+		"title": "Вопрос / Ответ",
+		"path": "#"
+	}
+]

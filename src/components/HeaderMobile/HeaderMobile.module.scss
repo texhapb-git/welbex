@@ -1,0 +1,17 @@
+@import '../../styles/varialbles';
+
+.headerMobile {
+	width: 100%;
+	padding: 15px 0;
+	background-color: $bodyBG;
+	position: fixed;
+	top: 0;
+	display: none;
+
+	@media(max-width: $xs) {
+		display: block;
+	}
+
+}
+
+.headerMobileMenu {}
