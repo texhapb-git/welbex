@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/welbex/static/css/main.360d0391.css",
-    "main.js": "/welbex/static/js/main.84dae4d8.js",
+    "main.js": "/welbex/static/js/main.69aff41e.js",
     "static/js/787.aad65a53.chunk.js": "/welbex/static/js/787.aad65a53.chunk.js",
     "static/media/body.jpg": "/welbex/static/media/body.0cb6740c7d74be8d065c.jpg",
     "static/media/body-mobile.jpg": "/welbex/static/media/body-mobile.974754c51c887ae78f18.jpg",
     "static/media/svg-sprite.svg": "/welbex/static/media/svg-sprite.666287db87a9710f6d8ae28df8ec464d.svg",
     "index.html": "/welbex/index.html",
     "main.360d0391.css.map": "/welbex/static/css/main.360d0391.css.map",
-    "main.84dae4d8.js.map": "/welbex/static/js/main.84dae4d8.js.map",
+    "main.69aff41e.js.map": "/welbex/static/js/main.69aff41e.js.map",
     "787.aad65a53.chunk.js.map": "/welbex/static/js/787.aad65a53.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.360d0391.css",
-    "static/js/main.84dae4d8.js"
+    "static/js/main.69aff41e.js"
   ]
 }
